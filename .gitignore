@@ -1,0 +1,16 @@
+# Build artifacts
+/obj/
+/lib/obj/
+*.o
+*.d
+*.a
+*.out
+/push_swap
+/checker
+
+# Documentation
+*.pdf
+
+# Editor / OS
+.vscode/
+.DS_Store
