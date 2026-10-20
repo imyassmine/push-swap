@@ -90,5 +90,5 @@ runs the full suite under ASan + UBSan.
 - ~1.3k LOC of C, no dependency besides libc.
 
 ---
-
-42 Paris curriculum project · solo · Yassmine Abdallah ([@imyassmine](https://github.com/imyassmine))
+*Built at [42 Paris](https://42.fr) by [Yassmine Abdallah (@imyassmine)](https://github.com/imyassmine)
+and rumenage.*
